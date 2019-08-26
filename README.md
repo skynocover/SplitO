@@ -1,0 +1,2 @@
+# SplitO
+SplitO for NCcode
