@@ -2,7 +2,15 @@
 
 SplitO for NCcode
 
+![Demo](demo.gif)
+
 ## Version
+
+### [1.0.2] 2020.04.15
+
+#### ADD
+
+- 於README新增Demo的圖片
 
 ### [1.0.1] 2020.02.24
 
